@@ -1,4 +1,3 @@
-%pip install tabulate
 # import library
 from tabulate import tabulate
 data = {
